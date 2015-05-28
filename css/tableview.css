@@ -1,0 +1,144 @@
+body{
+  width:100%;
+  margin:auto;
+  background-color:#E0FFF0;
+  font-family:Helvetica;
+}
+#seven25-11-14 {
+  background-color:#C0C0C0;
+}
+#fifteen26-11-14 {
+  background-color:#C0C0C0;
+}
+#five28-11-14 {
+  background-color:#C0C0C0;
+}
+#fifteen24-11-14 {
+  background-color:#C0C0C0;
+}
+#eight27-11-14 {
+  background-color:#C0C0C0;
+}
+#four24-11-14 {
+  background-color:#C0C0C0;
+}
+/* Main header for website */
+header{
+  width:100%;
+  background-color:#76AB99;
+  padding:1em 0em 1em 0em;
+  float:left;
+}
+#logo{
+  max-width:1210px;
+  margin:0px auto;
+  float:auto;
+}
+img {
+  max-width:100%;
+  height:auto;
+  margin:auto;
+  float:left;
+}
+h1 {
+  margin-left:1em;
+  float:left;
+}
+.clear {
+  clear:both;
+}
+/* header with buttons and week title */
+#previous{
+  float:left;
+  width:183px;
+  padding: 10px 20px 10px 20px;
+  margin-top:5px;
+}
+#current{
+  float:left;
+  width:762px;
+  margin-top:10px;
+  padding: 10px 0 10px 0;*/
+  font-size:20pt;
+  text-align:center;
+  background-color:white;
+  border-radius:5px;
+  /*border: solid 1px black;*/
+}
+#next{
+  float:right;
+  width:183px;
+  padding: 10px 20px 10px 20px;
+  text-align:right;
+  margin-top:5px;
+}
+/* styling for top buttons */
+.top_buttons{
+  border: solid 1px black;
+  padding:3px;
+  border-radius:5px;
+  background-color:white;
+  font-size:16pt;
+}
+.top_buttons:hover{
+  background-color:#CAE6D8;
+}
+
+/* css for main body including table */
+#calendar_view{
+  max-width:1210px;
+  margin:auto;
+  float:auto;
+}
+#main{
+  max-width:1210px;
+  background-color:white;
+  padding:10px;
+  float:auto;
+  margin:auto;
+}
+#wkcommencing{
+  float:auto;
+  width:600px;
+}
+#today{
+  float:left;
+  width:600px;
+}
+/* table */
+#calendar_view{
+  width:1210px;
+}
+table{
+  float:auto;
+  border-collapse: collapse;
+  table-layout:fixed;
+  width:1200;
+}
+th{
+  border: #CCC 1px solid;
+  width: 200px;
+  padding: 5px;
+  table-layout: fixed;
+  overflow:hidden;
+  font-size:11pt;
+}
+td{
+  border: #CCC 1px solid;
+  border-top:none;
+  width:200px;
+  padding: 3px;
+  table-layout: fixed;
+  overflow:hidden;
+}
+#timeSelection{
+  max-width:1210px;
+  margin:auto;
+  float:auto;
+}
+/*.timecell{
+  width:183px;
+}*/
+.clear {
+  clear:both;
+}
