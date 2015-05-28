@@ -1,0 +1,84 @@
+body{
+  margin:auto;
+  background-color:#E0FFF0;
+  font-family:Helvetica;
+}
+header{
+	width:100%;
+  background-color:#76AB99;
+  padding:1em 0em 1em 0em;
+  float:left;
+}
+#logo{
+	max-width:1210px;
+	margin:0px auto;
+	float:auto;
+}
+img {
+	max-width:100%;
+	height:auto;
+	margin:auto;
+	float:left;
+}
+h1 {
+	margin-left:1em;
+	float:left;
+}
+#main {
+	max-width:1210px;
+	margin:auto;
+	float:auto;
+}
+.clear {
+	clear:both;
+}
+a {
+	color:blue;
+	text-decoration:none;
+}
+#registration {
+	width:700px;
+}
+input {
+	width: 300px;
+	padding: 3px;
+	background: #F3F9DD;
+	float:auto;
+	margin-top:2em;
+}
+.labelwidth	{
+	float: left;
+	text-align: left;
+	width: 10em;
+	margin-top:2em;
+	}
+#registerbtn {
+	margin-top:1.5em;
+	font-size:16pt;
+	padding:0.5em;
+	background-color:#76AB99;
+	border:solid 1px #76AB99;
+	border-radius:5px;
+}
+#registerbtn:hover {
+	background-color:#6DBDA2;
+}
+#registrationbtn:active {
+	margin-top:1.5em;
+	font-size:16pt;
+	padding:0.5em;
+	background-color:#020303;
+	/*border:solid 1px #76AB99;*/
+	border-radius:5px;
+}
+#loginbtn {
+	margin-top:1.5em;
+	font-size:16pt;
+	padding:0.5em;
+	background-color:#76AB99;
+	border:solid 1px #76AB99;
+	border-radius:5px;
+}
+#loginbtn:hover {
+	background-color:#6DBDA2;
+}
