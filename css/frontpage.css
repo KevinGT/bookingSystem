@@ -1,0 +1,39 @@
+body{
+  margin:auto;
+  background-color:#E0FFF0;
+  font-family:Helvetica;
+}
+header{
+	width:100%;
+  background-color:#76AB99;
+  padding:1em 0em 1em 0em;
+  float:left;
+}
+#logo{
+	max-width:1210px;
+	margin:0px auto;
+	float:auto;
+}
+img {
+	max-width:100%;
+	height:auto;
+	margin:auto;
+	float:left;
+}
+h1 {
+	margin-left:1em;
+	float:left;
+}
+#main {
+	max-width:1210px;
+	margin:auto;
+
+	float:auto;
+}
+.clear {
+	clear:both;
+}
+a {
+	color:blue;
+	text-decoration:none;
+}
