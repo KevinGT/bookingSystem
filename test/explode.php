@@ -12,7 +12,7 @@ echo $explode[3];
 
 // What is the best way to loop through string and insert into mysql column?
 
-<?php
+
 $item_value = 'itemOne,itemTwo,itemThree';
 $item_array = explode(",",$item_value);
 
@@ -26,26 +26,3 @@ foreach($item_array as $key => $value){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-?>
