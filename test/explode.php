@@ -9,7 +9,10 @@ echo $explode[1];
 echo $explode[2];
 echo $explode[3];
 
+?>
 
+
+<?php
 // What is the best way to loop through string and insert into mysql column?
 
 
